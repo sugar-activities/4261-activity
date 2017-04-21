@@ -1,0 +1,7 @@
+[Activity]
+name = Gmail
+activity_version = 6
+bundle_id = org.laptop.GmailActivity
+icon = activity-gmail
+exec = sugar-activity webactivity.GmailActivity -s
+license = GPLv2+
